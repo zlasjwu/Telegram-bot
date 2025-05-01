@@ -1,2 +1,5 @@
+
 aiogram==2.25.1
-flask
+fastapi
+uvicorn
+python-dotenv
